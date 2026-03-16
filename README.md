@@ -1,2 +1,1 @@
-# MemVLA_2
-方案2:动作层面的记忆
+# MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation
